@@ -299,10 +299,10 @@ class WorkingTimeApp:
         self.is_running = False
         self.is_paused = False
         self.stop_event.set()
-
+        
         self.status_icon.config(text="✅", fg='#10b981')
         self.status_label.config(text="Time's up! 🎉", fg='#10b981')
-
+        
         self.start_button.config(state='normal')
         self.pause_button.config(state='disabled')
         self.resume_button.config(state='disabled')

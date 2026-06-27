@@ -30,7 +30,7 @@ This post is about a Pomodoro timer script that was created specifically for dev
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # Run code
 
-![Download](https://github.com/CAgent47/Work-Timer-For-Developers/archive/refs/heads/main.zip)
+[Download](https://github.com/CAgent47/Work-Timer-For-Developers/archive/refs/heads/main.zip)
 
 ```bash
 
